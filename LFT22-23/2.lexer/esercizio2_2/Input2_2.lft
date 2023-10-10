@@ -1,0 +1,10 @@
+assign 100 to a, b;
+print(a,b);
+read(x,y);
+print(1, +(a,x,y), - x y, *(x,y), / x +(1,y));
+//print(1, +(1,1,1), - 8 3, *(4,2), / 10 +(1,0));
+if (<> x y) print(x) else print(y) end;
+while (> x 0) {
+  assign - x 1 to x;
+  print(x)
+}

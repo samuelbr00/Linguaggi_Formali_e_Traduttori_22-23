@@ -1,0 +1,4 @@
+assign 10 to x;
+assign 20 to y;
+assign 30 to z;
+conditional[option(> x y) do assign 100 to z] else print[z] end

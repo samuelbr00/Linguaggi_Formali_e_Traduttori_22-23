@@ -1,0 +1,10 @@
+/*commento1*/
+//commento2
+assign 10 to x;
+assign /* a */ 45 to y;
+assign 73 to z; //provo
+print[+(5,2,8)];
+print[+(x,*(y,z))];
+
+
+
